@@ -1,0 +1,38 @@
+
+img{
+    float: left;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 50%;
+}
+h1{
+position:relative;
+margin: 10px;
+text-align: left;
+}
+h3{
+    margin: 5px;
+    color: grey;
+}
+
+h4{
+    margin: 5px;
+}
+section{
+    position: relative;
+    float: left;
+    border: 7px solid coral;
+    padding: 10px;
+}
+aside{
+    float: left;
+    color: gray;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
+footer{
+    float: left;
+    margin: 10px;
+}
